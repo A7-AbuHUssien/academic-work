@@ -185,5 +185,3 @@ exit_program:
 
     li $v0, 10
     syscall
-
-```
